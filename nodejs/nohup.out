@@ -1,0 +1,42 @@
+Node app is running on port 8222
+[socket] connected :EQe31gcZhl74JF1tAAAA
+[socket] self join :Noma Sayavong
+[socket] call join :Noma Sayavong
+[socket] connected :mzF9G2rQggIo-Ex1AAAB
+[socket] self join :Black Gold
+[socket] call join :Black Gold
+[socket] connected :204suAsjT8PErWC8AAAC
+[socket] self join :stargold0803
+[socket] call join :stargold0803
+[socket] self join :stargold0803
+[socket] call join :stargold0803
+[socket] self join :stargold0803
+[socket] call join :stargold0803
+[socket] friend request :stargold0803 ---> Black Gold
+[socket] friend accept :Black Gold ---> stargold0803
+[socket] join room connect : room8
+[socket] join room create
+[socket] join chat : user7 ---> room7
+[socket] chat message : Hi Black Gold ---> Text
+[socket] chat message : How are you? ---> Text
+[socket] join room connect : room7
+[socket] join room create
+[socket] join chat : user8 ---> room8
+[socket] chat message : Hi Stargold ---> Text
+[socket] chat message : Nice to meet you here ---> Text
+[socket] chat message : just sent IMAGE to you. ---> Image
+[socket] chat message : Can you see my image? ---> Text
+[socket] chat message : just sent IMAGE to you. ---> Image
+[socket] leave room : user8 ---> room7 ---> room8
+[socket] join room connect : room7
+[socket] join room create
+[socket] join chat : user8 ---> room8
+[socket] leave room : user7 ---> room8 ---> room7
+[socket] join room connect : room8
+[socket] join room create
+[socket] join chat : user7 ---> room7
+[socket] leave room : user8 ---> room7 ---> room8
+[socket] leave room : user7 ---> room8 ---> room7
+[socket] connected :4sKmArAO2pIe6pmhAAAD
+[socket] self join :Black Gold
+[socket] call join :Black Gold
